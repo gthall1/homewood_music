@@ -4573,6 +4573,20 @@
 
 		}
 
+@media screen and (max-width: 480px) {
+
+			#header h1 {
+				font-size: 1.3em;
+			}
+
+			#header .navPanelToggle:before {
+				font-size: 1.3em;
+			}
+
+		}
+
+
+
 
 /*
 	Slate by Pixelarity
