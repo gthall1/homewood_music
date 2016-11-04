@@ -4495,6 +4495,36 @@
 		}
 
 
+.instrumentcategory {
+	font-size: 2.5em;
+	padding-top: 1em;
+}
+
+
+#guitars:target {
+	padding-top: 90px;
+}
+
+#banjos:target {
+	padding-top: 90px;
+}
+
+#mandolins:target {
+	padding-top: 90px;
+}
+
+#harmonicas:target {
+	padding-top: 90px;
+}
+
+#violins:target {
+	padding-top: 90px;
+}
+
+#accordians:target {
+	padding-top: 90px;
+}
+
 
 
 
