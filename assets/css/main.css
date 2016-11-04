@@ -1,12 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600|Raleway:500,700,800");
 
-/*
-	Slate by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
-
+/* attributes & license at bottom of this file */
 
 
 /* Reset */
@@ -4526,10 +4521,30 @@
 }
 
 
+.hours {
+	text-align: center;
+	float: none;
+}
+
+.hoursize {
+	font-size: 1.1em;
+	line-height: 2em;
+}
+
+.map {
+	display: block;
+	margin: auto;
+	margin-bottom: 4em;
+	;
+}
 
 
 
-
+/*
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+*/
 
 
 

@@ -1,8 +1,4 @@
-/*
-	Slate by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
+
 
 
 var settings = {
@@ -357,3 +353,11 @@ var settings = {
 	});
 
 })(jQuery);
+
+
+
+/*
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+*/
