@@ -2357,16 +2357,16 @@
 			}
 
 	.icon-wrapper {
-		background-color: #f6f6f6;
+		background-color: #e4e3e3;
 		box-shadow: 0 -1px 0 0 #f6f6f6, 0 1px 0 0 #f6f6f6;
 	}
 
 		.icon-wrapper:before {
-			border-bottom-color: #f6f6f6;
+			border-bottom-color: #e4e3e3;
 		}
 
 		.icon-wrapper:after {
-			border-top-color: #f6f6f6;
+			border-top-color: #e4e3e3;
 		}
 
 /* Image */
@@ -4535,9 +4535,43 @@
 	display: block;
 	margin: auto;
 	margin-bottom: 4em;
-	;
+	width: 80%;
 }
 
+
+@media screen and (max-width: 980px) {
+
+			.maphotlink {
+				padding-bottom: 1.5em;
+			}
+
+		}
+
+@media screen and (max-width: 480px) {
+
+			.post .image img {
+				height: 15em;
+			}
+
+		}
+
+@media screen and (max-width: 980px) {
+
+			.hotlinks {
+				font-size: 1.15em;
+			}
+
+		}
+
+@media screen and (max-width: 736px) {
+
+			.hotlinks {
+				font-size: 1.15em;
+				padding-top: .75em;
+				padding-bottom: .75em;
+			}
+
+		}
 
 
 /*
